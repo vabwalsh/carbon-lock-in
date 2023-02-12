@@ -141,4 +141,5 @@ def plot_data(dataset, affectability_status, title_str, sub_folder):
 
 if __name__ == "__main__":
     plot_data
+    make_plot_vars
 
